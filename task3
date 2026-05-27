@@ -1,0 +1,7 @@
+CodeAlpha_MusicGenerationAI/
+│
+├── music_generator.py
+├── sample.mid
+├── README.md
+├── output.png
+└── project_report.pdf
